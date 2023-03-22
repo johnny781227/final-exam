@@ -1,2 +1,2 @@
-# Deploying-a-Django-Content-mgt-syst-through-a-CIDCD-Pipeline
+# Deploying-a-python-based-app
 Deploying-a-Django-python-based-app
