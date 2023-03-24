@@ -203,11 +203,11 @@ workflows:
            requires: [plan-destroy]
        - destroy:
            requires: [hold-destroy]  
-      # # - build-my-app:
-      # #      requires: [apply]
-      # # - deploy-my-app:
-      # #     requires: [apply]
-        - sock-shop:
-            requires: [apply]
-        - prometheus:
-            requires: [apply]
+      # - build-my-app:
+      #      requires: [apply]
+      # - deploy-my-app:
+      #     requires: [apply]
+       - sock-shop:
+           requires: [apply]
+       - prometheus:
+           requires: [apply]
