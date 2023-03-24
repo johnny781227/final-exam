@@ -11,7 +11,6 @@ provider "aws" {
   region     = var.region
 }
 
- AWS EKS
 data "aws_availability_zones" "available" {}
 
 locals {
