@@ -209,5 +209,5 @@ workflows:
       #     requires: [apply]
        - sock-shop
   #        requires: [apply]
-      - prometheus
+       - prometheus
   #         requires: [apply]
